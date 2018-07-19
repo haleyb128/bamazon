@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "working with MySQL and Node JS to make a mock-amazon customer view and manager view.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haleyb128/bamazon.git"
+  },
+  "author": "Haley Belden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haleyb128/bamazon/issues"
+  },
+  "homepage": "https://github.com/haleyb128/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
